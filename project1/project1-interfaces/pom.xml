@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+      
+  <modelVersion>4.0.0</modelVersion>
+      
+  <parent>
+            
+    <groupId>group1</groupId>
+            
+    <artifactId>project1</artifactId>
+            
+    <version>1.0-SNAPSHOT</version>
+        
+  </parent>
+      
+  <artifactId>project1-interfaces</artifactId>
+      
+  <packaging>pom</packaging>
+  
+  <modules>
+      
+    <module>project1-interfaces-web</module>
+      
+  </modules>
+</project>
